@@ -129,7 +129,7 @@ Supports all 14 languages supported by the game.
 Please [orange]leave your request[normal] on any platform where this project is officially hosted. Supports [orange]any voice in any language[normal] available on Apple OS, [orange]not just Siri[normal].
 
 [orange]If You Find a Mistake...[normal]
-Please [orange]leave a comment[normal], [orange]create a new issue[normal], or directly [orange]make a correction on GitHub[normal]. I don't speak all of these languages. Although I try my best to ensure accuracy, there may still be mistakes.
+Please [orange]leave a comment[normal], [orange]create a new issue[normal], or directly [orange]make a correction on GitHub[normal]. I don't speak all of these languages. Although I've tried my best to ensure accuracy, there may still be mistakes.
 
 [orange]If You Would Like to Support Me...[normal]
 I would really appreciate you could buy me a coffee. Your support can not only [orange]provide fuel[normal] with coffee but also [orange]supercharge it[normal] with Steam Points!
