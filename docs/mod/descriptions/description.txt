@@ -141,4 +141,4 @@ You can view all the files for this project on GitHub at [orange]https://github.
 Release Date: January 07, 2026 (4.4)
 
 The GNU General Public License v3.0 (GPL-3.0)
-Copyright © 2025 Jonathan Chiu
+Copyright © 2025, 2026 Jonathan Chiu

@@ -429,4 +429,4 @@ Published Date (GitHub): January 07, 2026
 
 The GNU General Public License v3.0 (GPL-3.0)
 
-Copyright © 2025 Jonathan Chiu
+Copyright © 2025, 2026 Jonathan Chiu
