@@ -103,6 +103,7 @@ def copy_to_temp():
         category[]: "{config['manifest_sii']['category']}"
         icon: "{config['manifest_sii']['icon']}"
         description_file: "{config['manifest_sii']['description_file']}"
+        mp_mod_optional: true
     }}
 }}
 '''
