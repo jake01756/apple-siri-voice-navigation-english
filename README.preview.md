@@ -425,7 +425,7 @@ $2
 
 Release Date: January 07, 2026 (4.4)
 
-Published Date (GitHub): January 17, 2026
+Published Date (GitHub): January 24, 2026
 
 The GNU General Public License v3.0 (GPL-3.0)
 
