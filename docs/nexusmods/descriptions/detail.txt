@@ -1,4 +1,4 @@
-[b]January 24 (4.5)[/b]: This release brings [b]Tina from Slovenian[/b] into the game.
+[b]January 24 (4.5)[/b]: Siri is now considered [b]optional for multiplayer compatibility[/b].
 
 
 [size=5][b]Introduction[/b][/size]
