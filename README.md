@@ -6,37 +6,33 @@
 
 <p align="center">
     <a href="/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/quinn0823/apple-siri-voice-navigation"></a>
-    <!-- <a href="https://www.fmod.com"><img alt="FMOD" src="https://img.shields.io/badge/studio-2.01.05-blue?logo=fmod&logoSize=auto"></a> -->
     <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/quinn0823/apple-siri-voice-navigation"></a>
-    <a href="https://buymeacoffee.com/jonathanchiu"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/buy me a coffee-FFDD00?logo=buymeacoffee&logoColor=000000"></a>
+    <a href="https://buymeacoffee.com/jonathanchiu"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/buy me a coffee-jonathanchiu-ffdd00?logo=buymeacoffee"></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-download-blue?logo=github&labelColor=181717"></a>
-    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/quinn0823/apple-siri-voice-navigation"></a>
-    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/commits/main/"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/quinn0823/apple-siri-voice-navigation"></a>
-    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/commits/main/"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/quinn0823/apple-siri-voice-navigation"></a>
-</p>
-
-<p align="center">
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Euro Truck Simulator 2" src="https://img.shields.io/badge/Euro Truck Simulator 2-subscribe-5c7e10?logo=steam&labelColor=yellow"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404021712"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam (ETS2)" src="https://img.shields.io/badge/Steam (ETS2)-subscribe-799905?logo=steam&labelColor=1b2838"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404021712"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404021712"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404021712"></a>
 </p>
 
 <p align="center">
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="American Truck Simulator" src="https://img.shields.io/badge/American Truck Simulator-subscribe-5c7e10?logo=steam&labelColor=red"></a>
-    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Update Date" src="https://img.shields.io/steam/update-date/3404022298"></a>
+    <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam (ATS)" src="https://img.shields.io/badge/Steam (ATS)-subscribe-799905?logo=steam&labelColor=1b2838"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404022298"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404022298"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404022298"></a>
 </p>
 
+<p align="center">
+    <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-download-4493f8?logo=github&labelColor=181717"></a>
+    <a href="https://www.nexusmods.com/eurotrucksimulator2/mods/173"><img alt="Nexus Mods (ETS2)" src="https://img.shields.io/badge/Nexus Mods (ETS2)-download-d98f40?labelColor=29292e"></a>
+    <a href="https://www.nexusmods.com/americantrucksimulator/mods/77"><img alt="Nexus Mods (ATS)" src="https://img.shields.io/badge/Nexus Mods (ATS)-download-d98f40?labelColor=29292e"></a>
+</p>
+
 **Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With **over 90 voices in 24 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-**January 07 (4.4)**: This release brings **Tina from Slovenian** into the game.
+**January 25 (4.5)**: Siri is now **compatible with multiplayer** (optional).
 
 ---
 
@@ -157,7 +153,7 @@ Supports all 14 languages supported by the game.
 
 ## Compatibility
 
-**1.43+**, compatible with both ETS2 and ATS.
+**1.43+**, multiplayer compatible (optional).
 
 ## Download
 
@@ -423,7 +419,7 @@ $2
 
 ---
 
-Release Date: January 07, 2026 (4.4)
+Release Date: January 25, 2026 (4.5)
 
 Published Date (GitHub): January 25, 2026
 
