@@ -118,7 +118,7 @@ Supports all 14 languages supported by the game.
 [/list]
 
 [h1]Compatibility[/h1]
-[b]1.43+[/b], compatible with both ETS2 and ATS.
+[b]1.43+[/b], multiplayer compatible (optional).
 
 [h1]Download[/h1]
 [list]

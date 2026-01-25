@@ -10,7 +10,7 @@ If you enjoy it, please consider voting or starring it, awarding it with Steam P
 This project is hosted on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal], where you can contribute to it. You can also check for the latest updates there.
 
 [orange]Compatibility[normal]
-[blue]1.43+[normal], compatible with both ETS2 and ATS.
+[blue]1.43+[normal], multiplayer compatible (optional).
 
 [orange]Usage[normal]
 1. Click [orange]Mods[normal] on the title screen to open the mod manager. (You are already open! Close this window when proceeding to step 2.)
