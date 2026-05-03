@@ -106,4 +106,4 @@ navigation/projects/*
 navigation/voices
 
 # User config file
-scripts/config.ini
+#scripts/config.ini
