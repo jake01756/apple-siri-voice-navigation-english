@@ -243,7 +243,7 @@ $2
 
 ---
 
-Release Date: XX XX, 2026 (4.5-eng)
+Release Date: May 3, 2026 (4.5-eng)
 
 Published Date (GitHub): May 3, 2026
 
