@@ -1,5 +1,0 @@
-SiiNunit {
-    voice_navigation_config : .spanish.co_carlos_en.pack {
-        pack_name: "Español (Colombia) - Carlos (mejorada)"
-    }
-}

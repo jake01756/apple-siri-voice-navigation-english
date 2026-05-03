@@ -1,5 +1,0 @@
-SiiNunit {
-    voice_navigation_config : .french.ca_siri_1.pack {
-        pack_name: "Français (Canada) - Siri (Voix 1)"
-    }
-}

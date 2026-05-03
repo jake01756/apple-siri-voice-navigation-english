@@ -1,5 +1,0 @@
-SiiNunit {
-    voice_navigation_config : .spanish.co_soleda_en.pack {
-        pack_name: "Español (Colombia) - Soledad (mejorada)"
-    }
-}

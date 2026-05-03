@@ -1,5 +1,0 @@
-SiiNunit {
-    voice_navigation_config : .thai.th_siri_1.pack {
-        pack_name: "Thai (Thailand) - Siri (Voice 1)"
-    }
-}

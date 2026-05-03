@@ -1,9 +1,0 @@
-[New] Siri is now considered optional for multiplayer compatibility. Players can join a multiplayer game with this mod installed, even if the server or other players do not have this mod.
-[Added] build.py: Add metadata `mp_mod_optional` to manifest.sii.
-[Improved] Update the compatibility information in the description.
-[Improved] Update the Shields.io badges in the readme.
-[Note] The server must explicitly allow the use of optional mods. If not all mods are considered mandatory. The client must explicitly allow servers with optional mods in session browser filter.
-
-View it on [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v4.5.0]GitHub[/url], or [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3404021712]Workshop (ETS2)[/url].
-
-View it on [url=https://github.com/quinn0823/apple-siri-voice-navigation/releases/tag/v4.5.0]GitHub[/url], or [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3404022298]Workshop (ATS)[/url].

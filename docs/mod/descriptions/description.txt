@@ -1,13 +1,13 @@
-[orange]Experience the road with Siri![normal] Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With [orange]over 90 voices in 24 languages[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+[orange]Experience the road with Siri![normal] Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With [orange]over 20 voices in English[normal] to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
-[green]January 25 (4.5)[normal]: Siri is now [green]compatible with multiplayer[normal] (optional).
-
+This mod is forked and licensed under the GPL-v3.
 
 [orange]Introduction[normal]
-I am a high school student, and this is my first project of this kind, created for learning and practice.
-Thank you for using this mod! Feel free to [orange]share your feedback[normal] or [orange]leave your request[normal]. Your suggestion may be implemented within a few days!
-If you enjoy it, please consider voting or starring it, awarding it with Steam Points, or buying me a coffee to support my "job".
-This project is hosted on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal], where you can contribute to it. You can also check for the latest updates there.
+I speak English, so having a mod that has a whole bunch of voices instead of just english ones takes up extra space on my system. So, I decided to fork the repo and remove all the voices, except the english ones. If you want to contribute to this project, I suggest you do so upstream.
+
+The English only version is hosted on GitHub at [orange]https://github.com/jake01756/apple-siri-voice-navigation-english[normal].
+
+The main project is hosted on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal], where you can contribute to it. You can also check for the latest updates there.
 
 [orange]Compatibility[normal]
 [blue]1.43+[normal], multiplayer compatible (optional).
@@ -18,17 +18,8 @@ This project is hosted on GitHub at [orange]https://github.com/quinn0823/apple-s
 3. Open [orange]Options[normal].
 4. Go to [orange]Audio - Voice Navigation - Language and voice[normal] and then select a voice you like.
 
-[orange]Voices [94+ Voices in 24+ Languages][normal]
-Supports all 14 languages supported by the game.
+[orange]Voices [20 Voices][normal]
 [blue]Available (94 in 24)[normal]
-* Čeština (Česko) - Iveta (vylepšená verze)
-* Čeština (Česko) - Zuzana (prémiový)
-* Dansk (Danmark) - Siri (Stemme 1)
-* Dansk (Danmark) - Siri (Stemme 2)
-* Deutsch (Deutschland) - Siri (Stimme 1)
-* Deutsch (Deutschland) - Siri (Stimme 2)
-* Deutsch (Deutschland) - Siri (Stimme 3)
-* Deutsch (Deutschland) - Siri (Stimme 4)
 * English (Australia) - Siri (Voice 1)
 * English (Australia) - Siri (Voice 2)
 * English (Australia) - Siri (Voice 3)
@@ -49,96 +40,21 @@ Supports all 14 languages supported by the game.
 * English (United States) - Siri (Voice 3)
 * English (United States) - Siri (Voice 4)
 * English (United States) - Siri (Voice 5)
-* Español (Argentina) - Diego (mejorada)
-* Español (Argentina) - Isabela (mejorada)
-* Español (Chile) - Francisca (mejorada)
-* Español (Colombia) - Carlos (mejorada)
-* Español (Colombia) - Jimena (mejorada)
-* Español (Colombia) - Soledad (mejorada)
-* Español (España) - Siri (Voz 1)
-* Español (España) - Siri (Voz 2)
-* Español (México) - Siri (Voz 1)
-* Español (México) - Siri (Voz 2)
-* Français (Belgique) - Aude (premium)
-* Français (Canada) - Siri (Voix 1)
-* Français (Canada) - Siri (Voix 2)
-* Français (France) - Siri (Voix 1)
-* Français (France) - Siri (Voix 2)
-* Français (France) - Siri (Voix 3)
-* Français (France) - Siri (Voix 4)
-* Hebrew (Israel) - Siri (Voice 1)
-* Hebrew (Israel) - Siri (Voice 2)
-* Italiano (Italia) - Siri (Voca 1)
-* Italiano (Italia) - Siri (Voca 2)
-* Italiano (Italia) - Siri (Voca 3)
-* Italiano (Italia) - Siri (Voca 4)
-* Magyar (Magyarország) - Tünde (prémium)
-* Nederlands (België) - Ellen (verbeterd)
-* Nederlands (Nederland) - Siri (Stem 1)
-* Nederlands (Nederland) - Siri (Stem 2)
-* [green]Norsk Bokmål (Norge) - Siri (Stemme 1)[normal]
-* [green]Norsk Bokmål (Norge) - Siri (Stemme 2)[normal]
-* Polski (Polska) - Ewa (premium)
-* Polski (Polska) - Krzysztof (rozszerzony)
-* Polski (Polska) - Zosia (rozszerzony)
-* Português (Brasil) - Siri (Voz 1)
-* Português (Brasil) - Siri (Voz 2)
-* Português (Portugal) - Catarina (melhorada)
-* Português (Portugal) - Joana (melhorada)
-* Português (Portugal) - Joaquim (melhorada)
-* Română (România) - Ioana (îmbunătațită)
-* Slovenčina (Slovensko) - Laura (vylepšený)
-* [green]Slovenščina (Slovenija) - Tina (izboljšano)[normal]
-* Svenska (Sverige) - Siri (Röst 1)
-* Svenska (Sverige) - Siri (Röst 2)
-* Thai (Thailand) - Siri (Voice 1)
-* Thai (Thailand) - Siri (Voice 2)
-* Türkçe (Türkiye) - Siri (Ses 1)
-* Türkçe (Türkiye) - Siri (Ses 2)
-* Ελληνικά (Ελλάδα) - Nikos (Βελτιωμένη)
-* Ελληνικά (Ελλάδα) - Μελίνα (Βελτιωμένη)
-* Русский (Россия) - Siri (Голос 1)
-* Русский (Россия) - Siri (Голос 2)
-* 中文（上海，中国大陆）- 南南（优化音质）
-* 中文（中国大陆）- Siri（声音1）
-* 中文（中国大陆）- Siri（声音2）
-* 中文（中国大陆）- Siri（声音3）
-* 中文（中国大陆）- Siri（声音4）
-* 中文（台灣）- Siri（聲音1）
-* 中文（台灣）- Siri（聲音2）
-* 中文（四川，中国大陆）- 盼盼（优化音质）
-* 中文（辽宁，中国大陆）- 冬梅（优化音质）
-* 中文（陕西，中国大陆）- 浩浩（优化音质）
-* 中文（香港）- Siri（聲音1）
-* 中文（香港）- Siri（聲音2）
-* 日本語（日本）- Siri（声1）
-* 日本語（日本）- Siri（声2）
-* 한국어 (대한민국) - Siri (음성 1)
-* 한국어 (대한민국) - Siri (음성 2)
-
-[red]Planned (0+ in 0+ New)[normal]
-* Your Request...
 
 [orange]Download[normal]
 * [orange]Workshop[normal] (Recommended)
 * GitHub: Releases / Build from source
-* Nexus Mods: ETS2/173, ATS/77
-
-
-[orange]If You Want More Voices...[normal]
-Please [orange]leave your request[normal] on any platform where this project is officially hosted. Supports [orange]any voice in any language[normal] available on Apple OS, [orange]not just Siri[normal].
-
-[orange]If You Find a Mistake...[normal]
-Please [orange]leave a comment[normal], [orange]create a new issue[normal], or directly [orange]make a correction on GitHub[normal]. I don't speak all of these languages. Although I've tried my best to ensure accuracy, there may still be mistakes.
-
-[orange]If You Would Like to Support Me...[normal]
-I would really appreciate you could buy me a coffee. Your support can not only [orange]provide fuel[normal] with coffee but also [orange]supercharge it[normal] with Steam Points!
 
 [orange]If You Want to Contribute...[normal]
-You can view all the files for this project on GitHub at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal]. For navigation commands, you can [orange]edit[normal] an existing JSON file or [orange]create[normal] a new one. Then, create a new pull request.
+You can view all the files for this project on GitHub at [orange]https://github.com/jake01756/apple-siri-voice-navigation-english[normal]. 
+
+But for contributions, I suggest you contribute upstream at [orange]https://github.com/quinn0823/apple-siri-voice-navigation[normal]. For navigation commands, you can [orange]edit[normal] an existing JSON file or [orange]create[normal] a new one. Then, create a new pull request.
 
 
-Release Date: January 25, 2026 (4.5)
+Release Date: May 3, 2026 (4.5-eng)
 
-The GNU General Public License v3.0 (GPL-3.0)
 Copyright © 2025, 2026 Jonathan Chiu
+
+Copyright © 2026 Jake Thomas
+
+Forked from Jonathan Chiu's main repo.
