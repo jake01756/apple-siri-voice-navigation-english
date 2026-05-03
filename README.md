@@ -2,22 +2,22 @@
     <a href=""><img src="docs/github/images/logo.svg" alt="Logo" height="128px" /></a>
 </p>
 
-<h1 align="center">Apple Siri Voice Navigation</h1>
-
+<h1 align="center">Apple Siri Voice Navigation - English</h1>
+<!--
 <p align="center">
     <a href="/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/quinn0823/apple-siri-voice-navigation"></a>
     <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/quinn0823/apple-siri-voice-navigation"></a>
     <a href="https://buymeacoffee.com/jonathanchiu"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/buy me a coffee-jonathanchiu-ffdd00?logo=buymeacoffee"></a>
-</p>
-
+</p>-->
+<!--
 <p align="center">
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam (ETS2)" src="https://img.shields.io/badge/Steam (ETS2)-subscribe-799905?logo=steam&labelColor=1b2838"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404021712"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404021712"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712"><img alt="Steam Favorites" src="https://img.shields.io/steam/favorites/3404021712"></a>
-</p>
+</p>-->
 
-<p align="center">
+<!--<p align="center">
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam (ATS)" src="https://img.shields.io/badge/Steam (ATS)-subscribe-799905?logo=steam&labelColor=1b2838"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Subscriptions" src="https://img.shields.io/steam/subscriptions/3404022298"></a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298"><img alt="Steam Downloads" src="https://img.shields.io/steam/downloads/3404022298"></a>
@@ -28,9 +28,9 @@
     <a href="https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-download-4493f8?logo=github&labelColor=181717"></a>
     <a href="https://www.nexusmods.com/eurotrucksimulator2/mods/173"><img alt="Nexus Mods (ETS2)" src="https://img.shields.io/badge/Nexus Mods (ETS2)-download-d98f40?labelColor=29292e"></a>
     <a href="https://www.nexusmods.com/americantrucksimulator/mods/77"><img alt="Nexus Mods (ATS)" src="https://img.shields.io/badge/Nexus Mods (ATS)-download-d98f40?labelColor=29292e"></a>
-</p>
+</p>-->
 
-**Experience the road with Siri!** Apple Siri Voice Navigation brings the iconic voices from Apple OS to truck simulator games. With **over 90 voices in 24 languages** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
+**Experience the road with Siri!** Siri Voice Navigation brings the iconic voices from Apple to truck simulator games. With **20 voices** to choose from, Siri is here to guide your trucking adventures, making your journey more enjoyable and memorable.
 
 **January 25 (4.5)**: Siri is now **compatible with multiplayer** (optional).
 
@@ -38,28 +38,14 @@
 
 ## Introduction
 
-I am a high school student, and this is my first project of this kind, created for learning and practice.
+I speak English, so having a mod that has a whole bunch of voices instead of just english ones takes up extra space on my system. So, I decided to fork the repo and remove all the voices, except the english ones. If you want to contribute to this project, I suggest you do so upstream at [https://github.com/quinn0823/apple-siri-voice-navigation/]
 
-Thank you for using this mod! Feel free to **share your feedback** or **leave your request**. Your suggestion may be implemented within a few days!
+## Voices [20 Voices in English]
 
-If you enjoy it, please consider voting or starring it, awarding it with Steam Points, or [buying me a coffee](https://buymeacoffee.com/jonathanchiu) to support my "job".
+Supports English.
 
-To contribute, please jump to the [If You Want to Contribute...](#if-you-want-to-contribute) section for guidelines and references. You can also check for the latest updates here.
+### Available
 
-## Voices [94+ Voices in 24+ Languages]
-
-Supports all 14 languages supported by the game.
-
-### Available (94 in 24)
-
-- Čeština (Česko) - Iveta (vylepšená verze)
-- Čeština (Česko) - Zuzana (prémiový)
-- Dansk (Danmark) - Siri (Stemme 1)
-- Dansk (Danmark) - Siri (Stemme 2)
-- Deutsch (Deutschland) - Siri (Stimme 1)
-- Deutsch (Deutschland) - Siri (Stimme 2)
-- Deutsch (Deutschland) - Siri (Stimme 3)
-- Deutsch (Deutschland) - Siri (Stimme 4)
 - English (Australia) - Siri (Voice 1)
 - English (Australia) - Siri (Voice 2)
 - English (Australia) - Siri (Voice 3)
@@ -80,86 +66,17 @@ Supports all 14 languages supported by the game.
 - English (United States) - Siri (Voice 3)
 - English (United States) - Siri (Voice 4)
 - English (United States) - Siri (Voice 5)
-- Español (Argentina) - Diego (mejorada)
-- Español (Argentina) - Isabela (mejorada)
-- Español (Chile) - Francisca (mejorada)
-- Español (Colombia) - Carlos (mejorada)
-- Español (Colombia) - Jimena (mejorada)
-- Español (Colombia) - Soledad (mejorada)
-- Español (España) - Siri (Voz 1)
-- Español (España) - Siri (Voz 2)
-- Español (México) - Siri (Voz 1)
-- Español (México) - Siri (Voz 2)
-- Français (Belgique) - Aude (premium)
-- Français (Canada) - Siri (Voix 1)
-- Français (Canada) - Siri (Voix 2)
-- Français (France) - Siri (Voix 1)
-- Français (France) - Siri (Voix 2)
-- Français (France) - Siri (Voix 3)
-- Français (France) - Siri (Voix 4)
-- Hebrew (Israel) - Siri (Voice 1)
-- Hebrew (Israel) - Siri (Voice 2)
-- Italiano (Italia) - Siri (Voca 1)
-- Italiano (Italia) - Siri (Voca 2)
-- Italiano (Italia) - Siri (Voca 3)
-- Italiano (Italia) - Siri (Voca 4)
-- Magyar (Magyarország) - Tünde (prémium)
-- Nederlands (België) - Ellen (verbeterd)
-- Nederlands (Nederland) - Siri (Stem 1)
-- Nederlands (Nederland) - Siri (Stem 2)
-- **Norsk Bokmål (Norge) - Siri (Stemme 1)**
-- **Norsk Bokmål (Norge) - Siri (Stemme 2)**
-- Polski (Polska) - Ewa (premium)
-- Polski (Polska) - Krzysztof (rozszerzony)
-- Polski (Polska) - Zosia (rozszerzony)
-- Português (Brasil) - Siri (Voz 1)
-- Português (Brasil) - Siri (Voz 2)
-- Português (Portugal) - Catarina (melhorada)
-- Português (Portugal) - Joana (melhorada)
-- Português (Portugal) - Joaquim (melhorada)
-- Română (România) - Ioana (îmbunătațită)
-- Slovenčina (Slovensko) - Laura (vylepšený)
-- **Slovenščina (Slovenija) - Tina (izboljšano)**
-- Svenska (Sverige) - Siri (Röst 1)
-- Svenska (Sverige) - Siri (Röst 2)
-- Thai (Thailand) - Siri (Voice 1)
-- Thai (Thailand) - Siri (Voice 2)
-- Türkçe (Türkiye) - Siri (Ses 1)
-- Türkçe (Türkiye) - Siri (Ses 2)
-- Ελληνικά (Ελλάδα) - Nikos (Βελτιωμένη)
-- Ελληνικά (Ελλάδα) - Μελίνα (Βελτιωμένη)
-- Русский (Россия) - Siri (Голос 1)
-- Русский (Россия) - Siri (Голос 2)
-- 中文（上海，中国大陆）- 南南（优化音质）
-- 中文（中国大陆）- Siri（声音1）
-- 中文（中国大陆）- Siri（声音2）
-- 中文（中国大陆）- Siri（声音3）
-- 中文（中国大陆）- Siri（声音4）
-- 中文（台灣）- Siri（聲音1）
-- 中文（台灣）- Siri（聲音2）
-- 中文（四川，中国大陆）- 盼盼（优化音质）
-- 中文（辽宁，中国大陆）- 冬梅（优化音质）
-- 中文（陕西，中国大陆）- 浩浩（优化音质）
-- 中文（香港）- Siri（聲音1）
-- 中文（香港）- Siri（聲音2）
-- 日本語（日本）- Siri（声1）
-- 日本語（日本）- Siri（声2）
-- 한국어 (대한민국) - Siri (음성 1)
-- 한국어 (대한민국) - Siri (음성 2)
-
-### Planned (0+ in 0+ New)
-
-- Your Request...
 
 ## Compatibility
 
 **1.43+**, multiplayer compatible (optional).
 
+<!--
 ## Download
 
 - **Workshop** (Recommended): [ETS2](https://steamcommunity.com/sharedfiles/filedetails/?id=3404021712), [ATS](https://steamcommunity.com/sharedfiles/filedetails/?id=3404022298)
 - GitHub: [Releases](https://github.com/quinn0823/apple-siri-voice-navigation/releases/latest) / [Build from source](#build-from-source)
-- Nexus Mods: [ETS2](https://www.nexusmods.com/eurotrucksimulator2/mods/173), [ATS](https://www.nexusmods.com/americantrucksimulator/mods/77)
+- Nexus Mods: [ETS2](https://www.nexusmods.com/eurotrucksimulator2/mods/173), [ATS](https://www.nexusmods.com/americantrucksimulator/mods/77)-->
 
 ## Build from Source
 
@@ -205,16 +122,6 @@ Please **leave your request** on any platform where this project is officially h
 
 Please **leave a comment**, **create a new issue**, or directly **make a correction here**. I don't speak all of these languages. Although I've tried my best to ensure accuracy, there may still be mistakes.
 
-## If You Would Like to Support Me...
-
-I would really appreciate you could buy me a coffee. Your support can not only **provide fuel** with coffee but also **supercharge it** with Steam Points!
-
-<a href="https://www.buymeacoffee.com/jonathanchiu"><img src="https://img.buymeacoffee.com/button-api/?slug=jonathanchiu&button_colour=FFDD00" /></a>
-
-## If You Want to Contribute...
-
-You can view all the files for this project here. For navigation commands, you can **edit** an existing JSON file or **create** a new one. Then, create a new pull request.
-
 
 ### File Structure
 
@@ -248,86 +155,6 @@ apple-siri-voice-navigation
 │   └── config_default.ini   // Default config file
 └── LICENSE                  // The GNU General Public License v3.0 (GPL-3.0)
 ```
-
-### Languages [24+ Languages from 44+ Countries]
-
-> [!TIP]
-> Don't know the ISO 3166-1 (alpha-2) two-letter country codes? Visit [Microsoft](https://www.microsoft.com) and select your language: `https://www.microsoft.com/en-us/` > `english_us.json`.
-
-#### Available (24 from 44)
-
-- chinese
-    - chinese_cn
-    - chinese_cnsn (Shaanxi)
-    - chinese_cnln (Liaoning)
-    - chinese_cnsc (Sichuan)
-    - chinese_cnsh (Shanghai)
-    - chinese_tw
-    - chinese_hk
-- czech
-    - czech_cz
-- danish
-    - danish_dk
-- dutch
-    - dutch_be
-    - dutch_nl
-- english
-    - english_au
-    - english_gb
-    - english_gbsc (Scotland)
-    - english_ie
-    - english_in
-    - english_us
-    - english_za
-- french
-    - french_be
-    - french_ca
-    - french_fr
-- german
-    - german_ge
-- greek
-    - greek_gr
-- hebrew
-    - hebrew_il
-- hungarian
-    - hungarian_hu
-- italian
-    - italian_it
-- japanese
-    - japanese_jp
-- korean
-    - korean_kr
-- nb (Norwegian Bokmål)
-    - nb_no
-- polish
-    - polish_pl
-- portuguese
-    - portuguese_br
-    - portuguese_pt
-- romanian
-    - romanian_ro
-- russian
-    - russian_ru
-- slovak
-    - slovak_sk
-- slovenian
-    - slovenian_si
-- spanish
-    - spanish_ar
-    - spanish_cl
-    - spanish_co
-    - spanish_es
-    - spanish_mx
-- swedish
-    - swedish_se
-- thai
-    - thai_th
-- turkish
-    - turkish_tr
-
-#### Planned (0+ New from 0+)
-
-- *All planned languages are available.*
 
 ### Regular Expressions
 
@@ -411,18 +238,17 @@ $2
         * [blue]$1[normal]
         ```
 
-### Contributors
-
-<a href="https://github.com/quinn0823/apple-siri-voice-navigation/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=quinn0823/apple-siri-voice-navigation" alt="Contributors" />
-</a>
 
 ---
 
-Release Date: January 25, 2026 (4.5)
+Release Date: XX XX, 2026 (4.5-eng)
 
-Published Date (GitHub): January 25, 2026
+Published Date (GitHub): May 3, 2026
 
 The GNU General Public License v3.0 (GPL-3.0)
 
 Copyright © 2025, 2026 Jonathan Chiu
+
+Copyright © 2026 Jake Thomas
+
+Forked from Jonathan Chiu's main repo, which you can find by clicking the blue link under the repo title.
