@@ -114,13 +114,15 @@ Supports English.
 
 ---
 
-## If You Want More Voices...
+## If You Want More Voices in Other Languages...
 
-Please **leave your request** on any platform where this project is officially hosted. Supports **any voice in any language** available on Apple OS, **not just Siri**.
+Please **leave your request** on **upstream**. That is, [here](https://github.com/quinn0823/apple-siri-voice-navigation/).
 
 ## If You Find a Mistake...
 
 Please **leave a comment**, **create a new issue**, or directly **make a correction here**. I don't speak all of these languages. Although I've tried my best to ensure accuracy, there may still be mistakes.
+
+Please do so upstream! [Click here](https://github.com/quinn0823/apple-siri-voice-navigation/)
 
 
 ### File Structure
