@@ -38,7 +38,7 @@
 
 ## Introduction
 
-I speak English, so having a mod that has a whole bunch of voices instead of just english ones takes up extra space on my system. So, I decided to fork the repo and remove all the voices, except the english ones. If you want to contribute to this project, I suggest you do so upstream at [https://github.com/quinn0823/apple-siri-voice-navigation/]
+I speak English, so having a mod that has a whole bunch of voices instead of just english ones takes up extra space on my system. So, I decided to fork the repo and remove all the voices, except the english ones. If you want to contribute to this project, I suggest you do so [upstream](https://github.com/quinn0823/apple-siri-voice-navigation/).
 
 ## Voices [20 Voices in English]
 
